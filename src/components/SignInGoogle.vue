@@ -31,8 +31,8 @@
     
     <script>
     
-    const SUPABASE_URL = 'https://hbdrontiqgaqgbkpzrco.supabase.co'
-    const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhiZHJvbnRpcWdhcWdia3B6cmNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjM3Njc1NTEsImV4cCI6MTk3OTM0MzU1MX0.eyGTEIMOx7Gz1ZSh4aeVzyxCl-tLkrP-24MDfaXQAbQ'
+    const SUPABASE_URL = 'https://ehsxahhhjirnkblciosf.supabase.co'
+    const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVoc3hhaGhoamlybmtibGNpb3NmIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjMzMjg5MjMsImV4cCI6MTk3ODkwNDkyM30.2zVCj9OfdyF_DADeP_r5V45DVS7X5GtX5VEE5SEU4Zg'
     const supabase = createClient(SUPABASE_URL, SUPABASE_KEY)
     
     
