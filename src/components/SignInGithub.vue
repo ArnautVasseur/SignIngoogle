@@ -1,4 +1,5 @@
 <script setup>
+  import { createClient } from '@supabase/supabase-js'
   const { user, session, error } = await supabase.auth.signIn({
     provider: 'github',
   })
