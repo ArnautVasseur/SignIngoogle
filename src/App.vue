@@ -1,6 +1,5 @@
 <script setup>
 import SignInGoogle from './components/SignInGoogle.vue';
-import SignInGithub from './components/SignInGithub.vue';
 
 </script>
 
@@ -8,7 +7,6 @@ import SignInGithub from './components/SignInGithub.vue';
   <div>
     <SignInGoogle/>
     <br>
-    <SignInGithub/>
   </div>
 </template>
 
